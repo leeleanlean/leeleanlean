@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **leeleanlean/leeleanlean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**❤️️ About Me**
+
+Hi there, I am leeleanlean living in 🇨🇳 Shanghai👋
+
+* Front-End Engineer
+* WeChat: CrazyLean
+
+**✨ Skills**
+
+* HTML | JavaScript | TypeScript | CSS | SCSS & LESS | Vue.js | React | Node.js | Python
+
+**🟢 Online Preview**
+
+* [Blogs](https://github.com/leeleanlean/Blogs)
+* [framework-vite2-vue3.x-typescript](https://lismill.github.io/vite2-vue3.x-typescript-framework)
+* [framework-vue3.x-typescript](https://lismill.github.io/vue3.x-typescript-framework)
+* [framework-react-typescript](https://lismill.github.io/react-typescript-framework)
+
+**🍉 Other Repositories**
+
+* https://www.github.com/lismill
