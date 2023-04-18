@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 **❤️️ About Me**
 
-Hi there, I am lismill living in 🇨🇳 Shanghai👋
+Hi there, I am lean living in 🇨🇳 Shanghai👋
 
 * Front-End Engineer
 * WeChat: CrazyLean
@@ -38,4 +38,4 @@ Hi there, I am lismill living in 🇨🇳 Shanghai👋
 
 **🍉 Other Repositories**
 
-* [https://www.github.com/leeleanlean](https://github.com/lismill)
+* [https://www.github.com/lismill](https://github.com/lismill)
