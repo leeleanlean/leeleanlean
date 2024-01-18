@@ -22,20 +22,3 @@ Hi there, I am lean living in 🇨🇳 Shanghai👋
 **✨ Skills**
 
 * HTML | JavaScript | TypeScript | CSS | SCSS & LESS | Photoshop | Vue.js | React | Node.js | Python | JAVA
-
-**🟢 Online Preview**
-
-* [Blogs](https://github.com/leeleanlean/Blogs)
-
-* [framework-vite2-vue3.x-typescript-arco](https://lismill.github.io/vite2-vue3.x-typescript-arco-framework)
-* [framework-vite2-vue3.x-typescript](https://lismill.github.io/vite2-vue3.x-typescript-framework)
-* [framework-vue3.x-typescript](https://lismill.github.io/vue3.x-typescript-framework)
-* [framework-react-typescript](https://lismill.github.io/react-typescript-framework)
-* [framework-egg-project](https://github.com/lismill/create_egg_project)
-* [framework-flask-project](https://github.com/leeleanlean/create_python_flask_project)
-* [framework-springboot-project](https://github.com/leeleanlean/create_springboot_project)
-* [framework-nestjs-project](https://github.com/lismill/create-nestjs-project)
-
-**🍉 Other Repositories**
-
-* [https://www.github.com/lismill](https://github.com/lismill)
